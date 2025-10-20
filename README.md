@@ -1,4 +1,8 @@
-# portfolio.github.io
+title: "Francis Agbaraolorunpo"
+logo: "/assets/img/headshot_circle.png"
+description: "Text below image"
+theme: jekyll-theme-minimal
+
 
 # Hi — I'm Francis 👋
 
